@@ -1,0 +1,13 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard2.1</TargetFramework>
+    <Nullable>enable</Nullable>
+    <UserSecretsId>22a90911-ab35-4b0c-a37a-04880a50a1f3</UserSecretsId>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="PJENL.Shared.Kernel.DomainUtils" Version="1.0.5" />
+  </ItemGroup>
+
+</Project>
